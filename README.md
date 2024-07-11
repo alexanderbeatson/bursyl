@@ -62,6 +62,7 @@ authors:
     orcid: https://orcid.org/0000-0002-1829-5965
 date-released: 11.07.2024
 url: https://github.com/alexanderbeatson/bursyl
+DOI: 10.5281/zenodo.12721865
 license: MIT
 ```
 ---
